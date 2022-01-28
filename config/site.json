@@ -1,7 +1,7 @@
 {
-  "userPrincipalName": "spencer.woo@outlook.com",
+  "userPrincipalName": "673227233@qq.com",
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive",
+  "title": "RGQBLOG's OneDrive",
   "baseDirectory": "/Public",
   "maxItems": 100,
   "googleFontSans": "Inter",
@@ -11,18 +11,17 @@
   ],
   "footer": "Powered by <a href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
   "protectedRoutes": [
-    "/🌞 Private folder/u-need-a-password",
-    "/🥟 Some test files/Protected route"
+    "/Protected"
   ],
-  "email": "mailto:spencer.wushangbo@gmail.com",
+  "email": "mailto:ranguiquan@gmail.com",
   "links": [
     {
       "name": "GitHub",
-      "link": "https://github.com/spencerwooo/onedrive-vercel-index"
+      "link": "https://github.com/ranguiquan"
     },
     {
-      "name": "Telegram",
-      "link": "https://t.me/realSpencerWoo"
+      "name": "Weibo",
+      "link": "https://weibo.com/u/5701890026"
     }
   ]
 }
