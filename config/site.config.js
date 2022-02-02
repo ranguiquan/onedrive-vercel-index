@@ -54,10 +54,6 @@ module.exports = {
     {
       "name": "GitHub",
       "link": "https://github.com/ranguiquan"
-    },
-    {
-      "name": "Weibo",
-      "link": "https://weibo.com/u/5701890026"
     }
   ]
 }
